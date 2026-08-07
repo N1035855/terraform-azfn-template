@@ -47,6 +47,8 @@ jobs:
             -backend-config="key=${TF_BACKEND_KEY}"
 
           terraform apply -auto-approve \
+
+          
   
 
 
